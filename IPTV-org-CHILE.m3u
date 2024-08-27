@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ESPN-7" tvg-logo="https://e7.pngegg.com/pngimages/875/394/png-clipart-roku-espn-espn-com-streaming-media-college-night-television-text.png" group-title="General",ESPN 7 
 http://200.60.124.19:29000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="ESPN-7b" tvg-logo="https://e7.pngegg.com/pngimages/875/394/png-clipart-roku-espn-espn-com-streaming-media-college-night-television-text.png" group-title="General",ESPN 7 (Alternative)
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/3271.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="General",Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="General",TVN3
